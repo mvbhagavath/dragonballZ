@@ -464,7 +464,7 @@ const characterDetails: CharacterDetails[] = [
     affiliation: "Other",
   },
   {
-    id: 37,
+    id: 36,
     name: "Kibito-Shin",
     ki: "3.2 Billion",
     maxKi: "3.2 Billion",
@@ -477,7 +477,7 @@ const characterDetails: CharacterDetails[] = [
     affiliation: "Other",
   },
   {
-    id: 38,
+    id: 37,
     name: "Jiren",
     ki: "121 Quintillion",
     maxKi: "12.1 Septillion",
@@ -490,7 +490,7 @@ const characterDetails: CharacterDetails[] = [
     affiliation: "Pride Troopers",
   },
   {
-    id: 39,
+    id: 38,
     name: "Toppo",
     ki: "99 Quadrillion",
     maxKi: "7.5 Sextillion",
@@ -503,7 +503,7 @@ const characterDetails: CharacterDetails[] = [
     affiliation: "Pride Troopers",
   },
   {
-    id: 40,
+    id: 39,
     name: "Dyspo",
     ki: "50 Trillion",
     maxKi: "150 Quintillion",
@@ -516,7 +516,7 @@ const characterDetails: CharacterDetails[] = [
     affiliation: "Pride Troopers",
   },
   {
-    id: 42,
+    id: 40,
     name: "Marcarita ",
     ki: "10 septillion",
     maxKi: "99.5 septillion",
