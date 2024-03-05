@@ -7,7 +7,17 @@ const nextConfig = {
         hostname: 'res.cloudinary.com',
       },
     ],
-  }
+  },
+  async redirects() {
+    return [
+      // Basic redirect
+      {
+        source: '/characters',
+        destination: '/',
+        permanent: true,
+      }
+    ]
+  },
 };
 
 export default nextConfig;

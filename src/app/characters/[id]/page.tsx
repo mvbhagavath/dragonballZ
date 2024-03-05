@@ -1,5 +1,4 @@
 import characterDetails from "@/constants/characterDetails";
-import { Metadata } from "next";
 import Image from "next/image";
 
 type Props = {

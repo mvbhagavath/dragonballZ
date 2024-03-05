@@ -4,8 +4,8 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <main className="min-h-screen px-24 py-[30px]">
-      <div className="grid grid-cols-3 gap-12">
+    <main className="min-h-screen py-[30px] max-w-[1440px] mx-auto">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12">
         {characterDetails.map((details, index) => (
           <Link href={`/characters/${details.id}`} key={details.name}>
             <div className="relative p-[32px] shadow-md rounded-lg">
